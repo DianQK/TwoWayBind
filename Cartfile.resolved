@@ -1,0 +1,4 @@
+github "mac-cain13/R.swift.Library" "81dacb1a1e8ef5b634e06af7873c65b5174abf7e"
+github "ReactiveX/RxSwift" "3.0.0.alpha.1"
+github "SnapKit/SnapKit" "ae3012f884922d36f3021b85924df9a68c68c96b"
+github "RxSwiftCommunity/RxDataSources" "1.0.0.beta.1"
